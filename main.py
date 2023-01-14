@@ -1,3 +1,9 @@
+"""
+HSV Picker
+Move the sliders to find the HSV values of the color you want to track.
+Press 'q' to quit.
+"""
+
 import cv2
 import numpy as np
 import stackImgModule as sim
